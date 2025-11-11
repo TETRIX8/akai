@@ -1,4 +1,4 @@
-
+[
   {
     id: 1,
     product: "Smartwatch 'Nova'",
@@ -134,3 +134,4 @@
     size: "18x24 in",
     price: 49.99
   }
+]
