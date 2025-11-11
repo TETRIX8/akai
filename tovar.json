@@ -1,0 +1,136 @@
+
+  {
+    id: 1,
+    product: "Smartwatch 'Nova'",
+    description: "Sleek, minimalist design with a long-lasting battery and health tracking features. Perfect for daily wear.",
+    image: "https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&dl=rachit-tank-2cFZ_FB08UM-unsplash.jpg",
+    inStock: true,
+    size: "One Size",
+    price: 199.99
+  },
+  {
+    id: 2,
+    product: "Wireless Headphones 'Aura'",
+    description: "Over-ear headphones with superior sound quality and active noise cancellation. Available in midnight black.",
+    image: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&dl=c-d-x-PDX_a_82obo-unsplash.jpg",
+    inStock: true,
+    size: "Adjustable",
+    price: 129.50
+  },
+  {
+    id: 3,
+    product: "Running Shoes 'Velocity'",
+    description: "Lightweight and breathable running shoes designed for maximum speed and comfort. Striking red color.",
+    image: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&dl=domino-studio-164_6wVEHfI-unsplash.jpg",
+    inStock: false,
+    size: "US 10",
+    price: 89.99
+  },
+  {
+    id: 4,
+    product: "Insulated Water Bottle 'Terra'",
+    description: "Eco-friendly, double-walled stainless steel bottle keeps drinks cold for 24 hours and hot for 12. Matte green finish.",
+    image: "https://images.unsplash.com/photo-1602143407151-7111542de6e8?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&dl=joan-tran-reEySFadyJQ-unsplash.jpg",
+    inStock: true,
+    size: "750ml",
+    price: 24.95
+  },
+  {
+    id: 5,
+    product: "Leather Messenger Bag 'Classic'",
+    description: "Handcrafted leather bag with multiple compartments, perfect for laptops and daily essentials. Timeless design.",
+    image: "https://images.unsplash.com/photo-1558769132-cb1ade28fa52?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&dl=joan-tran-reEySFadyJQ-unsplash.jpg",
+    inStock: true,
+    size: "Medium",
+    price: 149.00
+  },
+  {
+    id: 6,
+    product: "Ceramic Coffee Mug 'Zen'",
+    description: "Large, hand-thrown ceramic mug with a comfortable handle. Ideal for your morning coffee ritual.",
+    image: "https://images.unsplash.com/photo-1510972527921-aa9d52f97634?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&dl=joan-tran-reEySFadyJQ-unsplash.jpg",
+    inStock: true,
+    size: "16oz",
+    price: 15.00
+  },
+  {
+    id: 7,
+    product: "Portable Bluetooth Speaker 'Pulse'",
+    description: "Compact speaker with powerful bass and 10 hours of playtime. Water-resistant for outdoor adventures.",
+    image: "https://images.unsplash.com/photo-1546435341-27909338902c?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&dl=joan-tran-reEySFadyJQ-unsplash.jpg",
+    inStock: true,
+    size: "Small",
+    price: 75.99
+  },
+  {
+    id: 8,
+    product: "Minimalist Desk Lamp 'Lumin'",
+    description: "Adjustable LED desk lamp with three brightness settings. Adds a modern touch to any workspace.",
+    image: "https://images.unsplash.com/photo-1543196628-874288416867?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&dl=joan-tran-reEySFadyJQ-unsplash.jpg",
+    inStock: false,
+    size: "Tall",
+    price: 55.00
+  },
+  {
+    id: 9,
+    product: "Organic Cotton T-Shirt 'Cloud'",
+    description: "Ultra-soft, sustainably sourced cotton t-shirt. A wardrobe essential for comfort and style.",
+    image: "https://images.unsplash.com/photo-1521572178398-eefb67647631?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&dl=joan-tran-reEySFadyJQ-unsplash.jpg",
+    inStock: true,
+    size: "L",
+    price: 35.00
+  },
+  {
+    id: 10,
+    product: "Polarized Sunglasses 'Horizon'",
+    description: "Classic aviator style sunglasses with polarized lenses for superior glare reduction and UV protection.",
+    image: "https://images.unsplash.com/photo-1572635196237-14b3f281503f?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&dl=joan-tran-reEySFadyJQ-unsplash.jpg",
+    inStock: true,
+    size: "Standard",
+    price: 45.99
+  },
+  {
+    id: 11,
+    product: "Yoga Mat 'Balance'",
+    description: "Thick, non-slip mat provides excellent cushioning for yoga, pilates, and floor exercises. Easy to clean.",
+    image: "https://images.unsplash.com/photo-1591291621163-54522934271c?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&dl=joan-tran-reEySFadyJQ-unsplash.jpg",
+    inStock: true,
+    size: "72x24 in",
+    price: 39.90
+  },
+  {
+    id: 12,
+    product: "Gourmet Coffee Beans 'Ethiopia'",
+    description: "Single-origin, medium roast coffee beans from Ethiopia. Notes of jasmine, bergamot, and blueberry.",
+    image: "https://images.unsplash.com/photo-1565414194702-99951f280985?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&dl=joan-tran-reEySFadyJQ-unsplash.jpg",
+    inStock: true,
+    size: "12oz Bag",
+    price: 18.50
+  },
+  {
+    id: 13,
+    product: "Scented Candle 'Forest Mist'",
+    description: "Hand-poured soy wax candle with essential oils. A refreshing blend of pine, cedar, and moss.",
+    image: "https://images.unsplash.com/photo-1582794543139-c5295902159c?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&dl=joan-tran-reEySFadyJQ-unsplash.jpg",
+    inStock: false,
+    size: "8oz",
+    price: 22.00
+  },
+  {
+    id: 14,
+    product: "Mechanical Keyboard 'Tactile'",
+    description: "Full-size keyboard with satisfying tactile brown switches. RGB backlighting and durable aluminum frame.",
+    image: "https://images.unsplash.com/photo-1587825140708-eee4c8631437?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&dl=joan-tran-reEySFadyJQ-unsplash.jpg",
+    inStock: true,
+    size: "104 Key",
+    price: 110.00
+  },
+  {
+    id: 15,
+    product: "Art Print 'Abstract Wave'",
+    description: "High-quality giclée print on archival paper. Modern abstract design in cool blue and white tones.",
+    image: "https://images.unsplash.com/photo-1558980394-6e6717272e64?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&dl=joan-tran-reEySFadyJQ-unsplash.jpg",
+    inStock: true,
+    size: "18x24 in",
+    price: 49.99
+  }
